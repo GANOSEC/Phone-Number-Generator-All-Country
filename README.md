@@ -3,8 +3,9 @@ Unlimited Phone Number Generator Tool All Country *Upgarding next version for Wh
 
 installation proces >>
 
-pip install -r requirements.txt
-python v1.py
+>>> pip install -r requirements.txt
+
+>>> python v1.py
 
 
 for windows..
